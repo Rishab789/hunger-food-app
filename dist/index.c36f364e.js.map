@@ -1,0 +1,1 @@
+{"mappings":"AAGA,MAAM,OAAO,SAAS,UAAU,CAAC,SAAS,cAAc,CAAC;AACzD,KAAK,MAAM,CAAC,MAAM,EAAE","sources":["index.js"],"sourcesContent":["\r\n\r\n\r\nconst root = ReactDOM.createRoot(document.getElementById('root'))\r\nroot.render(index.js)"],"names":[],"version":3,"file":"index.c36f364e.js.map","sourceRoot":"/__parcel_source_root/"}
